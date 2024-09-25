@@ -5,7 +5,7 @@
 <h2 align="left">Loucuras.golang! ✨</h2>
 
 ###
-Some GOLANG beginner friendly projects 🐣
 <p align="left">🐣 This is a breaking free step to Golang studies.<br><br>
+Some GOLANG beginner friendly projects
 
 ###
