@@ -27,4 +27,11 @@ func main() {
 
 	nacionalidade := "brasileira"
 	fmt.Println(nacionalidade)
+
+	//Constantes
+	const qtdDeGatos = 7
+	fmt.Println("Quantidade de gatos manauaras:", qtdDeGatos)
+
+	const bonusAnual = 0.5
+	fmt.Println(bonusAnual)
 }
