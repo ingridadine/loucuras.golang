@@ -15,3 +15,5 @@ func main() {
 	var s string
 	fmt.Printf("String: %q\n", s)
 }
+
+//Mais pra frente buscar entender porque nesse caso foi usado o PRINTF :)
