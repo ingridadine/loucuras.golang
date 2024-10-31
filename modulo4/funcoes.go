@@ -3,7 +3,8 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println(soma(42, 13))
+	somaDosValores := soma(42, 13)
+	fmt.Println(somaDosValores)
 }
 
 func soma(x int, y int) int {
