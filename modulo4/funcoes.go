@@ -13,10 +13,18 @@ func main() {
 	fmt.Println(babado1)
 	fmt.Println(babado2)
 	//fmt.Println(babado3)
+
+	nome, sobrenome := printaNomeCompleto("DINYXIA", "NILO")
+	fmt.Println(nome)
+	fmt.Println(sobrenome)
 }
 
 func revelaBabado(babado string) (string, string, string) {
 	return babado, babado, babado
+}
+
+func printaNomeCompleto(nome, sobrenome string) (string, string) {
+	return nome, sobrenome
 }
 
 // func soma(x int, y int) int {
